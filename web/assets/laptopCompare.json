@@ -1,0 +1,100 @@
+[
+	{
+		"grouplabel":"DIMENSIONS",
+		"properties":[
+			{
+				"label":"Weight",
+				"name":"Weight"
+			},
+			{
+				"label":"Dimensions",
+				"name":"Dimensions"
+			}
+		]
+	},{
+		"grouplabel":"OPERATING SYSTEM",
+		"properties":[
+			{
+				"label":"Operating System",
+				"name":"OperatingSystem"
+			}
+		]
+	},
+	{
+		"grouplabel":"COMMUNICATION",
+		"properties":[
+			{
+				"label":"Ethernet",
+				"name":"Ethernet"
+			},
+			{
+				"label":"Bluetooth",
+				"name":"Bluetooth"
+			},
+			{
+				"label":"Wireless LAN",
+				"name":"WirelessLAN"
+			}
+		]
+	},{
+		"grouplabel":"PROCESSOR AND MEMORY FEATURES",
+		"properties":[
+			{
+				"label":"RAM",
+				"name":"RAM"
+			},
+			{
+				"label":"RAM Frequency",
+				"name":"RAMFrequency"
+			},
+			{
+				"label":"Graphic Processor",
+				"name":"GraphicProcessor"
+			},
+			{
+				"label":"Cache",
+				"name":"Cache"
+			},
+			{
+				"label":"Processor Name",
+				"name":"ProcessorName"
+			},
+			{
+				"label":"Cache",
+				"name":"Cache"
+			},
+			{
+				"label":"Processor Brand",
+				"name":"ProcessorBrand"
+			},
+			{
+				"label":"HDD apacity",
+				"name":"HDDCapacity"
+			},
+			{
+				"label":"RAM Type",
+				"name":"RAMType"
+			},
+			{
+				"label":"Clock Speed",
+				"name":"ClockSpeed"
+			}
+		]
+	},{
+		"grouplabel":"DISPLAY",
+		"properties":[
+			{
+				"label":"Display Resolution",
+				"name":"DisplayResolution"
+			},
+			{
+				"label":"Screen Size",
+				"name":"ScreenSize"
+			},
+			{
+				"label":"Screen Type",
+				"name":"ScreenType"
+			}
+		]
+	}
+]

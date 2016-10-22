@@ -1,0 +1,40 @@
+[
+	{
+		"groupname" : "General", 
+		"properties" :[
+			{
+				"label" : "Brand", 
+				"name": "Brand"
+			}, 
+			{
+				"label" : "Camera", 
+				"name": "RearCamera"
+			}, 
+			{
+				"label" : "Internal Memory", 
+				"name": "RAM"
+			}, 
+			{
+				"label" : "Number Of SIM", 
+				"name": "SIMType"
+			}
+		]
+	},
+	{
+		"groupname" : "Display", 
+		"properties" :[
+			{
+				"label" : "Screen Size", 
+				"name": "ScreenSize"
+			}, 
+			{
+				"label" : "Display Resolution", 
+				"name": "DisplayResolution"
+			}, 
+			{
+				"label" : "Display Type", 
+				"name": "DisplayType"
+			}
+		]
+	}		
+]

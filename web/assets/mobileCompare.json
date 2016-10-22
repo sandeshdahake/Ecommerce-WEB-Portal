@@ -1,0 +1,102 @@
+[
+	{
+		"groupname" : "General", 
+		"properties" :[
+			{
+				"label" : "Brand", 
+				"name": "Brand"
+			},
+			{
+				"label" : "Model Name", 
+				"name": "ModelName"
+			},
+			{
+				"label" : "Camera", 
+				"name": "RearCamera"
+			},
+			{
+				"label" : "Front Camera", 
+				"name": "FrontCamera"
+			}, 
+			{
+				"label" : "Internal Memory", 
+				"name": "RAM"
+			},
+			{
+				"label" : "Operating System", 
+				"name": "OperatingSystem"
+			},
+			{
+				"label" : "Bluetooth", 
+				"name": "Bluetooth"
+			},
+			{
+				"label" : "Wifi", 
+				"name": "Wifi"
+			},
+			{
+				"label" : "Dimensions", 
+				"name": "Dimensions"
+			}
+		]
+	},
+	{
+		"groupname" : "Display", 
+		"properties" :[
+			{
+				"label" : "Screen Size", 
+				"name": "DisplaySize"
+			}, 
+			{
+				"label" : "Display Resolution", 
+				"name": "ScreenResolution"
+			}, 
+			{
+				"label" : "Display Type", 
+				"name": "DisplayType"
+			}, 
+			{
+				"label" : "Touch Screen", 
+				"name": "TouchScreen"
+			}, 
+			{
+				"label" : "Video Recording", 
+				"name": "VideoRecording"
+			}
+		]
+	},
+	{
+		"groupname" : "Network", 
+		"properties" :[
+			{
+				"label" : "2G", 
+				"name": "2G"
+			}, 
+			{
+				"label" : "3G", 
+				"name": "3G"
+			}, 
+			{
+				"label" : "4G", 
+				"name": "4G"
+			}
+		]
+	},
+	{
+		"groupname" : "Processors", 
+		"properties" :[
+			{
+				"label" : "Processor", 
+				"name": "ProcessorOEM"
+			}, 
+			{
+				"label" : "Processor Frequency", 
+				"name": "ProcessorFrequency"
+			}, 
+			{
+				"label" : "Graphics Processor", 
+				"name": "GraphicsProcessor"
+			}
+		]
+	}		
+]

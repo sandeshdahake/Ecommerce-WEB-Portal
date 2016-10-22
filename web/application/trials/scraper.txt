@@ -1,0 +1,6 @@
+<td class=\'tchncl-spcftn__item-key\'>([^<]*)<\/td>\n<td class=\'tchncl-spcftn__item-val\'>([^<]*)</td>
+
+<div class=\"bttn js-prc-tbl__gts-btn bttn--gts js-lylty-popup-trgt prc-grid__gts-btn--mdl\" data-url="([^\"]*)\"
+
+//web store api end point
+http://www.mysmartprice.com/mobile/ptrows_details.php?mspid=3217&data=table

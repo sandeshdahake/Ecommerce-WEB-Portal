@@ -1,0 +1,114 @@
+body{
+margin:0px;
+padding:0px;
+background-color:#FFFFFF;
+
+}
+.container{
+min-width:1024px;
+}
+
+.row_80{
+margin-left:auto;
+margin-right:auto;
+width:80%;
+height:100%;
+}
+
+.head_wrapper{
+width:100%;
+height:200px;
+border-bottom:1px solid #000000;
+}
+
+.top_row{
+background:#000000;
+height:50px;
+}
+
+.head_text{
+font-family:"Berlin Sans FB";
+font:Geneva, Arial, Helvetica, sans-serif;
+font-size:32px;
+float:left;
+color:#FFFFFF;
+line-height:50px;
+}
+
+.head_links{
+float:right;
+width:auto;
+}
+
+.head_links ul{
+
+width:auto;
+height:auto;
+list-style-image:none;
+padding-left:0px;
+margin:0px;
+}
+.head_links ul li{
+color:#999999;
+width:auto;
+height:auto;
+float:left;
+list-style-type:none;
+margin-left:20px;
+font-weight:bold;
+font-size:20px;
+}
+
+.head_links ul li a{
+color:#666666;
+text-decoration:none;
+line-height:50px;
+}
+
+.head_links ul li a:hover{
+color:#FFFFFF;
+transition:1s;
+}
+
+.school_name{
+font-family:"Chaparral Pro";
+font-size:42px;
+padding-top:20px;
+
+}
+
+.mid_wrapper{
+width:100%;
+min-height:430px;
+}
+
+a{
+color:#999999;
+font-size:18px;
+font-family:"Courier New", Courier, monospace;
+font-weight:700;
+text-decoration:none;
+line-height:20px;
+}
+
+a:hover{
+color:#000000;
+transition:1s;
+}
+
+.footer{
+width:100%;
+height:40px;
+background-color:#333333;
+font-size:18px;
+font-family:"Courier New", Courier, monospace;
+}
+
+.footer_text{
+display:block;
+width:50%;
+height:auto;
+line-height:40px;
+float:left;
+color:#FFFFFF;
+}

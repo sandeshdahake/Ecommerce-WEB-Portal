@@ -1,0 +1,2 @@
+<?= $headingBanner; ?>
+<?= $content; ?>
